@@ -1,0 +1,13 @@
+:root{
+    --color-principal:#410101;
+    --color-secundario:#03684e;
+    --color-terciario:#fff;
+    --fuente-principal:Arial;
+    --fuente-secundaria:Georgia;
+}
+body{
+    background-color: var(--color-secundario);
+}
+h3{
+    color: var(--color-secundario);
+}
